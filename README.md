@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sunflower2333/sunflower2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ ### Hi~ o(*￣▽￣*)ブ Here is sunflower2333's profile.  
+ > a boy interested who is crazy in technology.  
+- 🌱 I’m currently learning Tourism Management.
+- 🔭 I’m currently working on porting uefi for phones. It's interesting, right?
+- 💬 Ask me about issues you meet while building.
+- 😄 Pronouns: "kancy" or "sun flower".  
+  * *Remember "sunflower" != "sun flower"* !!!
+- 📫 How to reach me: 
+  * Email: `kancy2333@outlook.com`
