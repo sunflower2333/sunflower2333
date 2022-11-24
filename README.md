@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- ### Hi~ o(*￣▽￣*)ブ Here is sunflower2333's profile.  
- > a boy interested who is crazy in technology.  
+ ### Hi~ o(*￣▽￣*)ブ Here is sunflower2333's profile.
 - 🌱 I’m currently learning Tourism Management.
 - 🔭 I’m currently working on porting uefi for phones. It's interesting, right?
 - 💬 Ask me about issues you meet while building.
