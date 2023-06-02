@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  ### Hi~ o(*￣▽￣*)ブ Here is sunflower2333's profile.
-- 🌱 I’m currently learning Tourism Management.
-- 🔭 I’m currently working on porting uefi for phones. It's interesting, right?
+- 🌱 I’m currently major in Tourism Management.
+- 📘 I'm also learning several computer languages.
+- 🔭 I’m currently working on porting uefi for embedded devices.
 - 💬 Ask me about issues you meet while building.
-- 😄 Pronouns: "kancy" or "sun flower".  
-  * *Remember "sunflower" != "sun flower"* !!!
-- 📫 How to reach me: 
-  * Email: `kancy2333@outlook.com`
+- 😄 You can call me "Kancy Joe" or "Sunflower". 
+- 🕊️ Busy with Life, Work, and Study everyday.
+- 📫 Email: `kancy2333@outlook.com`
