@@ -28,17 +28,18 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-        
+
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
           node-version: 18
           cache: 'npm'
+          cache-dependency-path: 'docs/package-lock.json'
 
-      - name: npm install, build, and test
+      - name: npm install and build
         run: |
           cd docs
-          npm install
+          npm ci
           npm run docs:build
 
       - name: Upload artifact for deployment job
@@ -46,7 +47,7 @@ jobs:
         with:
           name: node-app
           path: docs/.vitepress/dist/
-          
+
   # Deployment job
   deploy:
     environment:
