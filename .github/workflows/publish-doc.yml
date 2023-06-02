@@ -43,9 +43,8 @@ jobs:
           npm run docs:build
 
       - name: Upload artifact for deployment job
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-pages-artifact@v1
         with:
-          name: node-app
           path: docs/.vitepress/dist/
 
   # Deployment job
