@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  ### Hi~ o(*￣▽￣*)ブ Here is sunflower2333's profile.
-- 🌱 I’m currently major in IoT.
-- 🔭 I’m currently working on porting uefi for embedded devices.
+- 🌱 Currently learning IoT.
+- 🔭 Working on porting uefi for embedded devices.
 - 💬 Ask me about issues you meet while building.
 - 😄 You can call me "Kancy Joe" or "Sunflower". 
 - 🕊️ Busy with Life, Work, and Study everyday.
